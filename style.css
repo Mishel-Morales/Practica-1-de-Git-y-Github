@@ -1,3 +1,6 @@
 .container{
     background-color: blue;
 }
+.box-small{
+    border-style: dotted;
+}
